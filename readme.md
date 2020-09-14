@@ -16,7 +16,7 @@ Everything else (code blocks, math blocks, images ...) works the same as the def
 
 ### Installation
 
-Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHubTheme-Typora/releases/) and paste the `latehub.css` and the `latehub` folder into your Typora theme location. It is located by default in C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes.
+Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHubTheme-Typora/releases/) and paste the `latehub.css` and the `latehub` folder into your Typora theme location. For Windows users, it is located by default in C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes ([see official instructions](https://support.typora.io/About-Themes/)).
 
 
 
