@@ -21,4 +21,4 @@ Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHu
 
 ### Additional information
 
-The author of the used CMU Serif font is made by [Andrey V. Panov](http://canopus.iacp.dvo.ru/%7Epanov/cm-unicode/).
+The author of the used CMU Serif font is [Andrey V. Panov](http://canopus.iacp.dvo.ru/%7Epanov/cm-unicode/).
