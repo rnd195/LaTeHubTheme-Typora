@@ -11,6 +11,7 @@ Here is a screenshot of the theme:
 
 <img src="https://i.imgur.com/Zgg8epe.png" alt="https://i.imgur.com/Zgg8epe.png" style="zoom:50%;" />
 
+Everything else (code blocks, math blocks, images ...) works the same as the default Typora theme.
 
 
 ### Installation
