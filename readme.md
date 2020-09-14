@@ -15,7 +15,7 @@ Here is a screenshot of the theme:
 
 ### Installation
 
-Download the zip file from the (realeases page)[https://github.com/rnd195/LaTeHubTheme-Typora/releases/] and paste the `latehub.css` and the `latehub` folder ainto your Typora theme location. It is located by default in C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes.
+Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHubTheme-Typora/releases/) and paste the `latehub.css` and the `latehub` folder ainto your Typora theme location. It is located by default in C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes.
 
 
 
