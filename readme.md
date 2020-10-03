@@ -1,5 +1,5 @@
-# Important update
-The project has been moved to Gitlab [here](https://gitlab.com/rnd195/LaTeHubTheme-Typora).
+# Important update 03.10.2020
+The project (and all my other projects) has been moved to Gitlab [here](https://gitlab.com/rnd195/LaTeHubTheme-Typora).
 
 # LaTeHub theme for Typora
 
