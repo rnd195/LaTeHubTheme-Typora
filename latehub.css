@@ -43,11 +43,11 @@
   }
 
 html {
-    font-size: 16px;
+    font-size: 11pt;
 }
 
 body {
-    font-family: "CMU Serif","Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "CMU Serif","Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: rgb(0, 0, 0);
     line-height: 1.6;
 	text-align: justify;
@@ -269,7 +269,7 @@ code {
 
 @media print {
     html {
-        font-size: 13px;
+        font-size: 11pt;
     }
     table,
     pre {
@@ -283,6 +283,7 @@ code {
 .md-fences {
 	background-color: #f8f8f8;
 }
+
 #write pre.md-meta-block {
 	padding: 1rem;
     font-size: 85%;
