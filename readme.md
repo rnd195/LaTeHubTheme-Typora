@@ -1,13 +1,10 @@
-# Important update 03.10.2020
-The project (and all my other projects) has been moved to Gitlab [here](https://gitlab.com/rnd195/LaTeHubTheme-Typora).
-
 # LaTeHub theme for Typora
 
 This project aims to create a similar look and feel to LaTeX documents by modifying the default [Typora](https://typora.io/) theme "Github" (thus LaTeHub). I simply needed a theme that looked nice when exported and also justified the text. So far, only minor changes have been made. These include:
 
 - replaced the default font with CMU Serif
 - added `text-align: justify` to `body` in the CSS file
-- aesthetics
+- minor aesthetics
 
 
 
