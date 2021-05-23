@@ -5,19 +5,20 @@ This project aims to create a similar look and feel to LaTeX documents by modify
 - replaced the default font with CMU Serif
 - added `text-align: justify` to `body` in the CSS file
 - minor aesthetics
+- dark mode (work in progress)
 
 
 
 Here is a screenshot of the theme:
 
-<img src="https://i.imgur.com/Zgg8epe.png" alt="https://i.imgur.com/Zgg8epe.png" style="zoom:50%;" />
+<img src="https://i.imgur.com/ZrQ0W2o.png" alt="https://i.imgur.com/ZrQ0W2o.png" style="zoom:50%;" />
 
 Everything else (code blocks, math blocks, images ...) works the same as the default Typora theme.
 
 
 ### Installation
 
-Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHubTheme-Typora/releases/) and paste the `latehub.css` and the `latehub` folder into your Typora theme location. For Windows users, it is located by default in "C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes" ([see official instructions](https://support.typora.io/About-Themes/)).
+Download the zip file from the [realeases page](https://github.com/rnd195/LaTeHubTheme-Typora/releases/) and paste the `.css` files and the `latehub` folder into your Typora theme location. For Windows users, it is located by default in "C:\Users\\**YourUsername**\AppData\Roaming\Typora\themes" ([see official instructions](https://support.typora.io/About-Themes/)).
 
 
 ### Additional information
