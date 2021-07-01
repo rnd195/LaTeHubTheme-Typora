@@ -1,3 +1,7 @@
+@import "latehub/codeblock.dark.css";
+@import "latehub/sourcemode.dark.css";
+/* Copied from the Barfi theme theme.typora.io/theme/Barfi/ */
+
 :root {
 	--bg-color: #000000;
     --side-bar-bg-color: #050505;
@@ -234,7 +238,7 @@ table tr td:last-child {
 
 .CodeMirror-lines {
     padding-left: 4px;
-    color: #686868;
+    color: #b8b8b8;
 }
 
 .code-tooltip {
